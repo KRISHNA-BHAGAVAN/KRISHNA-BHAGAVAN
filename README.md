@@ -4,12 +4,12 @@
 
 ---
 
-### 🧠 About Me
+## ✧ About Me
 I’m a **software developer** with a strong background in building intelligent, end-to-end applications that blend **Artificial Intelligence** and **Full-Stack Web Development**.
 
-- 🧩 Building reasoning systems, RAG pipelines & agentic architectures  
-- ⚙️ Deploying secure, scalable backends with Node.js, FastAPI & Docker  
-- 💡 Passionate about transforming intelligence into real-world systems  
+- 🔹 Building reasoning systems, RAG pipelines & agentic architectures  
+- 🔹 Deploying secure, scalable backends with Node.js, FastAPI & Docker  
+- 🔹 Passionate about transforming intelligence into real-world systems  
 
 ---
 
