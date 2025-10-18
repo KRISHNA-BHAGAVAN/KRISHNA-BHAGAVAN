@@ -1,13 +1,9 @@
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=KRISHNA-BHAGAVAN&style=flat-square&color=FFFFFF&label=Profile%20Views&labelColor=000000" />
+  <img src="https://komarev.com/ghpvc/?username=KRISHNA-BHAGAVAN&style=flat-square&color=FFFFFF&labelColor=000000&label=Profile%20Views" />
 </p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=25&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=✦+Hi%2C+I'm+Krishna+Bhagavan;AI+%2B+Full-Stack+Developer;⚡+Building+Intelligent+%26+Scalable+Systems" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=30&section=header&color=00FFFF,7933FF" />
 </p>
 
 ## ✧ About Me
