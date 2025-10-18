@@ -41,8 +41,8 @@ I’m a **software developer** with a strong background in building intelligent,
 ![llama.cpp](https://img.shields.io/badge/llama.cpp-444444?style=for-the-badge&logo=gnu&logoColor=white)
 ![FAISS](https://img.shields.io/badge/FAISS-FF0080?style=for-the-badge&logo=facebook&logoColor=white)
 
-**AI Agent Protocols:**  
-![MCP](https://img.shields.io/badge/Model%20Context%20Protocol%20(MCP)-3178C6?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iIzMxNzhDNiI+PHBhdGggZD0iTTAgMGgyNHYyNEgweiIvPjxwYXRoIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyem0wIDE4Yy00LjQxIDAtOC0zLjU5LTgtOHMzLjU5LTggOC04IDggMy41OSA4IDgtMy41OSA4LTh6TTExIDZsMiAwdjJoLTJWNnptMCA0aDJ2OGgtMnYtOFoiLz48L3N2Zz4=)
+**AI Agent Protocols:**<br>
+![MCP](https://img.shields.io/badge/Model%20Context%20Protocol%20(MCP)-FFFFFF?style=for-the-badge&logo=https://raw.githubusercontent.com/KRISHNA-BHAGAVAN/KRISHNA-BHAGAVAN/refs/heads/main/mcp-logo.svg&logoColor=000000&color=FFFFFF)
 ![A2A Protocol](https://img.shields.io/badge/Agent--to--Agent%20(A2A)%20Protocol-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 **Databases & Infrastructure:**  
