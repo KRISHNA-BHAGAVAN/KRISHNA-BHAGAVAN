@@ -1,8 +1,5 @@
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:203A43&height=200&section=header&text=Krishna%20Bhagavan&fontSize=45&fontColor=FFFFFF&fontAlignY=35&desc=AI%20%26%20Full-Stack%20Developer&descAlignY=55&descAlign=50" />
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ECE9E6,100:FFFFFF&height=200&section=header&text=Krishna%20Bhagavan&fontSize=45&fontColor=000000&fontAlignY=35&desc=AI%20%26%20Full-Stack%20Developer&descAlignY=55&descAlign=50" alt="Krishna Bhagavan Header" />
-  </picture>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=👋+Hi%2C+I'm+Krishna+Bhagavan;AI+%26+Full-Stack+Developer;Building+Intelligent%2C+Scalable+Systems" alt="Typing SVG" />
 </p>
 
 ---
