@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Boss</h1>
+<h1 align="center">👋 Hi, I'm Krishna Bhagavan</h1>
 <h3 align="center">AI & Full-Stack Developer | Building Intelligent, Scalable Systems</h3>
 
 ---
