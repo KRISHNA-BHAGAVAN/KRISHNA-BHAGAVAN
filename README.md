@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=25&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=✦+Hi%2C+I'm+Krishna+Bhagavan;⚛️+AI+%2B+Full-Stack+Developer;⚡+Building+Intelligent+%26+Scalable+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=25&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=✦+Hi%2C+I'm+Krishna+Bhagavan;AI+%2B+Full-Stack+Developer;⚡+Building+Intelligent+%26+Scalable+Systems" alt="Typing SVG" />
 </p>
 
 ---
@@ -13,7 +13,7 @@ I’m a **software developer** with a strong background in building intelligent,
 
 ---
 
-## ⚙️ Tech Stack
+## ✧ Tech Stack
 
 **Languages:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -62,7 +62,7 @@ I’m a **software developer** with a strong background in building intelligent,
 
 ---
 
-## 🌐 Connect With Me
+## ✧ Connect With Me
 <p align="center">
   <a href="https://github.com/KRISHNA-BHAGAVAN" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" />
