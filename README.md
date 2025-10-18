@@ -31,6 +31,7 @@ I’m a **software developer** with a strong background in building intelligent,
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![FastMCP](https://img.shields.io/badge/FastMCP-2563EB?style=for-the-badge&logo=python&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-2C2C2C?style=for-the-badge&logo=chainlink&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-111827?style=for-the-badge&logo=graphene&logoColor=00FFFF)
 
@@ -38,6 +39,11 @@ I’m a **software developer** with a strong background in building intelligent,
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
 ![llama.cpp](https://img.shields.io/badge/llama.cpp-444444?style=for-the-badge&logo=gnu&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-FF0080?style=for-the-badge&logo=facebook&logoColor=white)
+
+**AI Agent Protocols:**  
+![MCP](https://img.shields.io/badge/Model%20Context%20Protocol%20(MCP)-3178C6?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iIzMxNzhDNiI+PHBhdGggZD0iTTAgMGgyNHYyNEgweiIvPjxwYXRoIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyem0wIDE4Yy00LjQxIDAtOC0zLjU5LTgtOHMzLjU5LTggOC04IDggMy41OSA4IDgtMy41OSA4LTh6TTExIDZsMiAwdjJoLTJWNnptMCA0aDJ2OGgtMnYtOFoiLz48L3N2Zz4=)
+![A2A Protocol](https://img.shields.io/badge/Agent--to--Agent%20(A2A)%20Protocol-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 **Databases & Infrastructure:**  
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
