@@ -3,11 +3,11 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=25&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=✦+Hi%2C+I'm+Krishna+Bhagavan;AI+%2B+Full-Stack+Developer;⚡+Building+Intelligent+%26+Scalable+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=25&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=✦+Hi%2C+I'm+Krishna+Bhagavan;GenAI+%2B+Full-Stack+Developer;⚡+Building+Intelligent+%26+Scalable+Systems" alt="Typing SVG" />
 </p>
 
-## ✧ About Me
-I’m a **software developer** with a strong background in building intelligent, end-to-end applications that blend **Artificial Intelligence** and **Full-Stack Web Development**.
+## ✧ About Me <em>[Undergraduate:  2022-26]</em>
+I’m a **Passionate Student Developer** with a strong background in building intelligent, end-to-end applications that blend **Generative AI** and **Full-Stack Web Development**.
 
 - 🔹 Building reasoning systems, RAG pipelines & agentic architectures  
 - 🔹 Deploying secure, scalable backends with Node.js, FastAPI & Docker  
