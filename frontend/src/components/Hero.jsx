@@ -98,7 +98,7 @@ const Hero = () => {
           <div className="relative">
             <div className="relative rounded-2xl overflow-hidden shadow-2xl">
               <img
-                src="/krishna-job-photo.png"
+                src={`${process.env.PUBLIC_URL}/krishna-job-photo.png`}
                 alt="Krishna Bhagavan Karri"
                 className="w-full h-auto object-cover"
               />
