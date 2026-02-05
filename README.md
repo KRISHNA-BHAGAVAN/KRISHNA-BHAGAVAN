@@ -1,6 +1,10 @@
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=KRISHNA-BHAGAVAN&style=flat-square&color=brightgreen&labelColor=000000&label=Profile%20Views" />
+<p>
+  <img src="https://komarev.com/ghpvc/?username=KRISHNA-BHAGAVAN&style=flat-square&color=brightgreen&labelColor=000000&label=Profile%20Views" align="left" />
+  <a href="https://www.krishnabhagavan.me/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-00FFFF?style=for-the-badge&logo=googlechrome&logoColor=black" align="right" />
+  </a>
 </p>
+<br />
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=25&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=✦+Hi%2C+I'm+Krishna+Bhagavan;GenAI+%2B+Full-Stack+Developer;⚡+Building+Intelligent+%26+Scalable+Systems" alt="Typing SVG" />
@@ -16,6 +20,7 @@ I’m a **Passionate Student Developer** with a strong background in building in
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=20&section=header&color=7933FF,00FFFF" />
 </p>
+
 
 ## ⚙️ Tech Stack
 
@@ -40,7 +45,7 @@ I’m a **Passionate Student Developer** with a strong background in building in
 ![llama.cpp](https://img.shields.io/badge/llama.cpp-444444?style=for-the-badge&logo=gnu&logoColor=white)
 ![FAISS](https://img.shields.io/badge/FAISS-FF0080?style=for-the-badge&logo=facebook&logoColor=white)
 
-**AI Agent Protocols:**  
+**AI Agent Protocols:**<br>
 ![MCP](https://img.shields.io/badge/Model%20Context%20Protocol%20(MCP)-FFFFFF?style=for-the-badge&logo=https://raw.githubusercontent.com/KRISHNA-BHAGAVAN/KRISHNA-BHAGAVAN/refs/heads/main/mcp-logo.svg&logoColor=000000&color=FFFFFF)
 ![A2A Protocol](https://img.shields.io/badge/Agent--to--Agent%20(A2A)%20Protocol-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
@@ -61,18 +66,29 @@ I’m a **Passionate Student Developer** with a strong background in building in
   <img src="https://capsule-render.vercel.app/api?type=waving&height=20&section=header&color=00FFFF,7933FF" />
 </p>
 
+## 📊 GitHub Dashboard
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KRISHNA-BHAGAVAN&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=79ff97" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KRISHNA-BHAGAVAN&layout=compact&langs_count=6&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFFF" height="180em" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KRISHNA-BHAGAVAN&theme=radical&hide_border=true&background=0D1117&ring=00FFFF&fire=79ff97&currStreakLabel=79ff97" height="170em" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=20&section=header&color=7933FF,00FFFF" />
+</p>
+
 ## 🌐 Connect With Me
 <p align="center">
-  <a href="https://www.krishnabhagavan.me" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-00FFFF?style=for-the-badge&logo=vercel&logoColor=000000" />
-  </a>
   <a href="https://github.com/KRISHNA-BHAGAVAN" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/krishnabhagavan/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:krishnabhagavan910@gmail.com" target="_blank">
+  <a href="mailto:krishnabhagavan910@gmail.com">
     <img src="https://img.shields.io/badge/Email-FF4444?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
