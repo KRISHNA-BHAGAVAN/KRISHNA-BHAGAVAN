@@ -17,7 +17,6 @@ I’m a **Passionate Student Developer** with a strong background in building in
   <img src="https://capsule-render.vercel.app/api?type=waving&height=20&section=header&color=7933FF,00FFFF" />
 </p>
 
-
 ## ⚙️ Tech Stack
 
 **Languages:**  
@@ -41,7 +40,7 @@ I’m a **Passionate Student Developer** with a strong background in building in
 ![llama.cpp](https://img.shields.io/badge/llama.cpp-444444?style=for-the-badge&logo=gnu&logoColor=white)
 ![FAISS](https://img.shields.io/badge/FAISS-FF0080?style=for-the-badge&logo=facebook&logoColor=white)
 
-**AI Agent Protocols:**<br>
+**AI Agent Protocols:**  
 ![MCP](https://img.shields.io/badge/Model%20Context%20Protocol%20(MCP)-FFFFFF?style=for-the-badge&logo=https://raw.githubusercontent.com/KRISHNA-BHAGAVAN/KRISHNA-BHAGAVAN/refs/heads/main/mcp-logo.svg&logoColor=000000&color=FFFFFF)
 ![A2A Protocol](https://img.shields.io/badge/Agent--to--Agent%20(A2A)%20Protocol-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
@@ -62,9 +61,11 @@ I’m a **Passionate Student Developer** with a strong background in building in
   <img src="https://capsule-render.vercel.app/api?type=waving&height=20&section=header&color=00FFFF,7933FF" />
 </p>
 
-
 ## 🌐 Connect With Me
 <p align="center">
+  <a href="https://www.krishnabhagavan.me" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-00FFFF?style=for-the-badge&logo=vercel&logoColor=000000" />
+  </a>
   <a href="https://github.com/KRISHNA-BHAGAVAN" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" />
   </a>
