@@ -67,10 +67,7 @@ I’m a **Passionate Student Developer** with a strong background in building in
 </p>
 
 ## 📊 GitHub Dashboard
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KRISHNA-BHAGAVAN&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=79ff97" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KRISHNA-BHAGAVAN&layout=compact&langs_count=6&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFFF" height="180em" />
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=KRISHNA-BHAGAVAN&theme=radical&hide_border=true&background=0D1117&ring=00FFFF&fire=79ff97&currStreakLabel=79ff97" height="170em" />
