@@ -11,7 +11,7 @@
 </p>
 
 ## ✧ About Me <em>[Undergraduate:  2022-26]</em>
-I’m a **Passionate Student Developer** with a strong background in building intelligent, end-to-end applications that blend **Generative AI** and **Full-Stack Web Development**.
+I’m a **Passionate Developer** with a strong background in building intelligent, end-to-end applications that blend **Generative AI** and **Full-Stack Web Development**. I am currently working at [**Energy Labs**](https://theenergylab.in/) Company.
 
 - 🔹 Building reasoning systems, RAG pipelines & agentic architectures  
 - 🔹 Deploying secure, scalable backends with Node.js, FastAPI & Docker  
